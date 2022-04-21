@@ -1,0 +1,15 @@
+{
+    "name": "azzi/crud_repo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Azzi Convento",
+            "email": "mazzic.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
